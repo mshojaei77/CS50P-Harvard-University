@@ -1,7 +1,2 @@
-submissions and project of CS50P course
-
-  Harvard University 
+this is my submissions and project of CS50P course at [Harvard University](https://pll.harvard.edu)
   
-  https://pll.harvard.edu 
-  
-  › An introduction to programming using a language called Python. Learn how to read and write code as well as how to test and "debug" it.
